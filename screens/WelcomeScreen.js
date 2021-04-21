@@ -31,7 +31,6 @@ export default class WelcomeScreen extends Component {
       return Alert.alert("User Added Successfully")
     })
     .catch(function(error) {
-      // Handle Errors here.
       var errorCode = error.code;
       var errorMessage = error.message;
       return Alert.alert(errorMessage)
