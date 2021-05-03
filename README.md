@@ -1,2 +1,2 @@
-# barter-app-stage-2
+# barter-system-app-stage-2
 
